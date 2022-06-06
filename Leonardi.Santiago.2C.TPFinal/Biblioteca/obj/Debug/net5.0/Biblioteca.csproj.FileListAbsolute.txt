@@ -1,0 +1,48 @@
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

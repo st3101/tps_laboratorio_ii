@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0-windows7.0": {
+      "Biblioteca/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Biblioteca.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Biblioteca.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Biblioteca/1.0.0": {
+      "type": "project",
+      "path": "../Biblioteca/Biblioteca.csproj",
+      "msbuildProject": "../Biblioteca/Biblioteca.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0-windows7.0": [
+      "Biblioteca >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Santi\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\Biblioteca\\Biblioteca.csproj",
-      "projectName": "Biblioteca",
-      "projectPath": "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\InterfazGrafica\\InterfazGrafica.csproj",
+      "projectName": "InterfazGrafica",
+      "projectPath": "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\InterfazGrafica\\InterfazGrafica.csproj",
       "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-      "outputPath": "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\Biblioteca\\obj\\",
+      "outputPath": "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\InterfazGrafica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,16 +48,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net5.0-windows7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
-          "projectReferences": {}
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {
+            "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "E:\\Nueva carpeta\\Leonardi.Santiago.2C.TPFinal - copia - copia - copia\\Biblioteca\\Biblioteca.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -48,8 +71,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
         "imports": [
           "net461",
           "net462",
@@ -63,6 +86,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
