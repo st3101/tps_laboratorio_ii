@@ -32,3 +32,14 @@ D:\Escritorio\TP-02\TP-02\bin\Debug\Entidades.dll
 D:\Escritorio\TP-02\TP-02\bin\Debug\Entidades.pdb
 D:\Escritorio\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 D:\Escritorio\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\bin\Debug\TP-02.exe.config
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\bin\Debug\TP-02.exe
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\bin\Debug\TP-02.pdb
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\bin\Debug\Entidades.dll
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\bin\Debug\Entidades.pdb
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\obj\Debug\TP-02.csproj.AssemblyReference.cache
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\obj\Debug\TP-02.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\obj\Debug\TP-02.exe
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico2\TP-02\obj\Debug\TP-02.pdb

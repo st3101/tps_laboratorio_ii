@@ -1,8 +1,0 @@
--Implementar todos los temas tp3 y tp4
--TrabajoPractico2
--usar un selec.
--inser para implementar
--Documentar el codigo en un *pdf* dentro de la carpeta tp4
--Crear un delegado propio
--cambiar letra al hacer la conexion en base de datos (controlar con exepciones)
-hilo y eventos

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\Leonardi.Santiago.2C.TPFinal\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico3\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\Leonardi.Santiago.2C.TPFinal\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico3\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\Leonardi.Santiago.2C.TPFinal\\Biblioteca\\obj\\",
+      "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico3\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -58,3 +58,15 @@ D:\Escritorio\tps_laboratorio_ii\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Deb
 D:\Escritorio\tps_laboratorio_ii\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
 D:\Escritorio\tps_laboratorio_ii\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
 D:\Escritorio\tps_laboratorio_ii\Leonardi.Santiago.2C.TPFinal\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\bin\Debug\net5.0\Biblioteca.deps.json
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\bin\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\bin\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.AssemblyReference.cache
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfoInputs.cache
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\Biblioteca.AssemblyInfo.cs
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\Biblioteca.dll
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\refint\Biblioteca.dll
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\Biblioteca.pdb
+D:\Escritorio\tps_laboratorio_ii\TrabajoPractico3\Biblioteca\obj\Debug\net5.0\ref\Biblioteca.dll

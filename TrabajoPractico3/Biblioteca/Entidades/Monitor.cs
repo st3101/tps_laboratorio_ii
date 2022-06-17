@@ -24,7 +24,7 @@ namespace Biblioteca.Entitdades
 
             set
             {
-                if (pulgadas < 0)
+                if (value < 0)
                 {
                     throw new ArgumentOutOfRangeException(nameof(pulgadas));
                 }
@@ -37,7 +37,7 @@ namespace Biblioteca.Entitdades
 
             set
             {
-                if (Hz < 0)
+                if (value < 0)
                 {
                     throw new ArgumentOutOfRangeException(nameof(Hz));
                 }

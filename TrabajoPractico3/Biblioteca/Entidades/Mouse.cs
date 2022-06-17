@@ -1,9 +1,5 @@
 ﻿using Biblioteca.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Biblioteca.Entitdades
 {
@@ -18,8 +14,34 @@ namespace Biblioteca.Entitdades
             this.Peso = peso;
         }
 
-        public int Dpi { get => dpi; set => dpi = value; }
-        public float Peso { get => peso; set => peso = value; }
+        public int Dpi
+        {
+            get => dpi;
+
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentOutOfRangeException(nameof(dpi));
+                }
+
+                dpi = value;
+            }
+        }
+
+        public float Peso
+        {
+            get => peso;
+
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentOutOfRangeException(nameof(peso));
+                }
+                peso = value;
+            }
+        }
 
         public string Info()
         {

@@ -48,7 +48,6 @@ namespace Biblioteca.Sistema
             try
             {
                 File.WriteAllText(nombreArchivo, JsonSerializer.Serialize(datos));
-
             }
             catch (Exception x)
             {

@@ -28,7 +28,7 @@ namespace Biblioteca.Sistema
         public static Estante<Monitor> EstanteMonitor { get => estanteMonitor; set => estanteMonitor = value; }
         public static Estante<Mouse> EstanteMouse { get => estanteMouse; set => estanteMouse = value; }
 
-        static public void AgregarEscritorio(string modelo, string metrosCuadrados)
+        static public bool AgregarEscritorio(string modelo, string metrosCuadrados)
         {
             Escritorio auxEscritorio = new Escritorio(modelo, float.Parse(metrosCuadrados));
 
@@ -38,6 +38,7 @@ namespace Biblioteca.Sistema
             }
 
             EstanteEscritorio.Agregar(auxEscritorio);
+            return true;
 
         }
 
@@ -119,14 +120,20 @@ namespace Biblioteca.Sistema
         }
 
         static public bool PisarInfoMonitor(string pugadas, string hz, Monitor auxMonitor)
-        {
-            if (auxMonitor is not null)
-            {
-                auxMonitor.Pulgadas = int.Parse(pugadas);
-                auxMonitor.Hz = float.Parse(hz);
-                return true;
-            }
+        { 
+            int auxPulgadas = int.Parse(pugadas); 
+            float auxHz = float.Parse(hz);
 
+          
+                if (auxMonitor is not null)
+                {
+                    auxMonitor.Pulgadas = auxPulgadas;
+                    auxMonitor.Hz = auxHz;
+                    return true;
+                }
+
+            
+         
             return false;
         }
 
