@@ -8,24 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Santi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Santi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\TrabajoPractico1\\Calculadora\\Biblioteca.csproj",
+      "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico1\\Calculadora\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\Escritorio\\TrabajoPractico1\\Calculadora\\Biblioteca.csproj",
+      "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico1\\Calculadora\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\TrabajoPractico1\\Calculadora\\obj\\",
+      "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico1\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\Santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
