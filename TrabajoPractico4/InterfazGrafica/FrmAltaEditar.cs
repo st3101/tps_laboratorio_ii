@@ -241,8 +241,5 @@ namespace InterfazGrafica
         {
             ModificarForm();
         }
-
-
     }
 }
-x

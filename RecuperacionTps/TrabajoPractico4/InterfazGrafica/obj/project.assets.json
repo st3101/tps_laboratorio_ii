@@ -477,11 +477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\InterfazGrafica\\InterfazGrafica.csproj",
+      "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\InterfazGrafica\\InterfazGrafica.csproj",
       "projectName": "InterfazGrafica",
-      "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\InterfazGrafica\\InterfazGrafica.csproj",
+      "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\InterfazGrafica\\InterfazGrafica.csproj",
       "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\InterfazGrafica\\obj\\",
+      "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\InterfazGrafica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -498,8 +498,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj": {
-              "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj"
+            "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj": {
+              "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj"
             }
           }
         }

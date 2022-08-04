@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c8/DglAi4hZXfZ6HKm2fd/SNwRFBH39WQOurr8n2vUAChZ7uvc0DuNz7uoWiRIAF/ipk9o6U7vTjc0zWanY+Dw==",
+  "dgSpecHash": "5oVeNM6Rd9nG53VcIVipWnSOF3/u9H21ztkPfwH/s5JtsnmmnPrRt4W3RGgUl7OiptGGlcgPrg2njTXIQN4uJw==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj",
+  "projectFilePath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santi\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Santi\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

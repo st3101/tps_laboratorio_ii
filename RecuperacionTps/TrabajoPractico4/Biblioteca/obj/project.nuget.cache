@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ofgNgtH9RCiD6VDpGTdVrveliee68ThfaM29Nh4Dj4g4vJmvBYYKSjrrAWMovUT5f0ej6OzgRz4TAkv9ao8oKw==",
+  "dgSpecHash": "KRPSPocC9ZsEH281I7emKhHQeR6xEXewteyRmuknHcqUIK+VB/zH87Y9t2yHwqkP8/tC5TtUSOqzCC2GBbOqnw==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Santi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

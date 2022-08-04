@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HDmSpJcsrpt9db6iRdAnuCMqE5WlzY3uJ8dk22R+Tbq66kDWwxznJMeUnj5F21qDp7gwH3abYTrCV6Rmu4gvUQ==",
+  "dgSpecHash": "uL2zWULwXKUJ32Le8RrzjqioSfcQbdawEMOGpffBGfJ2z1CY+B5uwADc1REJP8WLPgKsn4I01PIbvQh4qNuO7A==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\InterfazGrafica\\InterfazGrafica.csproj",
+  "projectFilePath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\InterfazGrafica\\InterfazGrafica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Santi\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

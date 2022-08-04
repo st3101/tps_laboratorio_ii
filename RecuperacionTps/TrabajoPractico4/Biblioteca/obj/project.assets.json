@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\obj\\",
+      "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santi\\AppData\\Roaming\\NuGet\\NuGet.Config",

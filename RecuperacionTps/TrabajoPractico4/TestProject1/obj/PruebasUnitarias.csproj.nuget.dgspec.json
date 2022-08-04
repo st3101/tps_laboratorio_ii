@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj": {}
+    "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj": {
+    "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\obj\\",
+        "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj": {
+    "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj",
+        "projectUniqueName": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj",
         "projectName": "PruebasUnitarias",
-        "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj",
+        "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\TestProject1\\PruebasUnitarias.csproj",
         "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\TestProject1\\obj\\",
+        "outputPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj": {
-                "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj"
+              "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj": {
+                "projectPath": "D:\\Escritorio\\tps_laboratorio_ii\\RecuperacionTps\\TrabajoPractico4\\Biblioteca\\Biblioteca.csproj"
               }
             }
           }
